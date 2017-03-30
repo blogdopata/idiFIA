@@ -1,9 +1,9 @@
 Credits :
 --------- 
 
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
+=> Design & developed: "De un Tema a customisar" 
+=> Bootstrap : en su version 3 http://getbootstrap.com/
 => Fontawesome : https://fortawesome.github.io/Font-Awesome/
 => Fonts : https://www.google.com/fonts
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
+=> Images : las estoy usando de loremPixel
 => Carousel : http://owlgraphic.com/owlcarousel/
